@@ -1,0 +1,16 @@
+body {
+  text-align:center;
+  margin: 0, 0, auto, auto,;
+  background-color: #EEEBDD;
+}
+h1{
+  font-size: 50px;
+  color: #362222;
+  margin-top: 0;
+}
+hr {
+  border-color: #362222;
+}
+.middle-container {
+  align-content: center;
+}

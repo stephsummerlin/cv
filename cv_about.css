@@ -1,0 +1,44 @@
+body {
+  text-align:center;
+  margin: 0, 0, auto, auto,;
+  background-color: #EEEBDD;
+}
+
+.logo {
+  border-radius: 50%;
+}
+
+body > header > nav.horizontalNavigation li {
+  width:auto;
+  display: block;
+}
+
+nav.horizontalNavigation li {
+  display: block;
+  float: left;
+}
+
+ul{
+  display: block;
+  width: auto;
+}
+
+h1{
+  font-size: 50px;
+  color: #362222;
+  margin-top: 0;
+
+}
+hr {
+  border-color: #362222;
+  align-items: center;
+}
+.middle-container {
+  align-content: center;
+}
+.top-middle-container{
+  align-content: center;
+}
+.bottom-middle-container{
+  align-content: center;
+}
